@@ -1,8 +1,8 @@
 ### Hi I'm Yingli Li. 👋
 ## Interest 😮
 
-**Unmanned Aerial Vehicle, Exploration, Control, Indoor navigation, Visual-Inertial Odometry <br>
-Mutl-robot systems, Multi-robot SLAM, Quadruped robots**
+**Manipulator Modelling, Control and Planning, Force Control, Visual-Inertial-Lidar Odometry, Surgery robot <br>
+Surgical robot navigation, planning, Autonomous contact operation and safety inspection**
   
 ## 🛠 Skills 🛠
 <p align="center">
